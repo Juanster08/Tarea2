@@ -1,0 +1,43 @@
+.fondo {
+  background-color: blue;
+  color: blue;
+}
+#titulo {
+  font-size: 30px;
+  text-align: center;
+  color: rgb(16, 15, 15);
+  line-height: 0%;
+}
+
+.info {
+  font-size: 13px;
+  line-height: 0%;
+  text-align: center;
+}
+
+#fechas {
+  line-height: 5%;
+  text-align: left;
+  font-style: italic;
+}
+
+.subt {
+  font-size: 25px;
+  line-height: 0%;
+  font-style: underline;
+}
+
+.add-cart:hover {
+  color: black;
+  background-color: blueviolet;
+  cursor: pointer;
+}
+
+p {
+  font-size: 15px;
+  line-height: normal;
+}
+
+#lista {
+  list-style-type: square;
+}
